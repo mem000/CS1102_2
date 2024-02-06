@@ -3,8 +3,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-  hello();
- retrun 0;
+void hello() {
+	cout << "Welcome to CSCE1102 Lab" << endl;
 
 }
